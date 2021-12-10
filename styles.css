@@ -24,12 +24,10 @@ box-shadow: 0px 12px 66px -53px rgba(124, 124, 124, 0.25);
 display: flex;
 padding-top: 3rem;
 padding-bottom: 2rem;
-
 }
 .sub-section1{
     margin-left:43rem ;
     display: flex;
-
 }
 .text1{
 font-family: "Work Sans";
@@ -50,10 +48,11 @@ font-family: "Work Sans" ;
 font-size: 25px;
 line-height: 20px;
 color: #6C7172;
-
+padding-top: 1rem;
 }
 .arrow-down{
     margin-left:1.5rem ; 
+    padding-top: 1rem;
     
 }
 .section2{
@@ -74,18 +73,18 @@ color: #6C7172;
     width:100%;
     display: flex;
     margin-left: 2rem;
-    padding-bottom: 3rem;
-   
-    
+    padding-bottom: rem; 
 }
 .home-text{
     padding-left: 1rem;
-    padding-top: 0.5rem;
-    font-family: Work Sans;
+    padding-top: 1.2rem;
+    font-family:"Work Sans";
     font-size: 20px;
     line-height: 23px;
-
     color: #9AB3F5;
+}
+.home-image{
+    padding-top: 1rem;
 }
 .team{
     display: flex;
@@ -95,7 +94,7 @@ color: #6C7172;
 .team-text{
     padding-left: 1rem;
     padding-top: 0.3rem;
-    font-family: Work Sans;
+    font-family: "Work Sans";
     font-size: 20px;
     line-height: 23px;
     color: #D5D6D7;
@@ -109,13 +108,13 @@ color: #6C7172;
 .settings-text{
     padding-left: 1rem;
     padding-top: 0.2rem;
-    font-family: Work Sans;
+    font-family: "Work Sans";
     font-size: 20px;
     line-height: 23px;
     color: #D5D6D7;
 }
 .left-panel{
-    width: 79%;
+    width: 76%;
     padding-bottom: 2rem;
 }
 .section3{
@@ -126,11 +125,9 @@ color: #6C7172;
     height: auto;
 }
 .search{
-    margin-left: 15rem;
+    margin-left: 16rem;
     width:35.5%;
     height:auto;
-    
-
 }
 .aim{
     display: flex;
@@ -142,7 +139,7 @@ color: #6C7172;
 }
 .put{
     margin-left: 5rem;
-    font-family: Work Sans;
+    font-family:"Work Sans";
     font-size: 20.5882px;
     line-height: 24px;
     color: #D5D6D7; 
@@ -151,21 +148,18 @@ input{
     width: 20%;
     margin-top: 1rem;
     border:0;
-    font-family: Work Sans;
+    font-family: "Work Sans";
     font-size: 20.5882px;
     line-height: 24px;
- 
     padding-left: 0.5em;
-    
 }
 .search-text{
     padding-left: 1rem;
-    font-family: Work Sans;
+    font-family: "Work Sans";
     font-size: 20.5882px;
     line-height: 24px;
     color: #D5D6D7; 
     padding-top: 1.3rem;
-
 }
 .search-image{
     margin-top: 1rem;
@@ -177,15 +171,18 @@ input{
     margin-top: -1rem;
 }
 .hi{
-    font-family: Work Sans;
+    font-family: "Work Sans";
     font-size: 55px;
     line-height: 176.7%;
     color: #4A5759;
+    font-family: Work Sans;
+
 }
 .you{
     line-height: 176.7%;
     color: #4A5759;
     margin-top:-1.5rem;
+    font-family: "Work Sans";
 }
 .section4{
     width: 100%;
@@ -194,8 +191,6 @@ input{
     margin-left: 2.5rem;
     margin-top: 2rem;
     display: flex;
-    
-
 }
 .graph-image{
     /* width: 70%; */
@@ -216,27 +211,24 @@ margin-left: 2rem;
     padding-left: 1rem;
     padding-bottom: 0.7rem;
     padding-top: 1rem;
-    padding-right: 2rem;
-   
+    padding-right: 2rem; 
 }
 .tea{
-    font-family: Work Sans;
+    font-family:"Work Sans";
     font-size: 20px;
     line-height: 23px;
     color: #000000;
-    
 }
 .proj{
     margin-left: 3rem;
-    font-family: Work Sans;
+    font-family:"Work Sans";
     font-size: 12px;
     line-height: 14px;
-    color: #D5D6D7;
-        
+    color: #D5D6D7;     
 }
 .projj{
     margin-left: 4rem;
-    font-family: Work Sans;
+    font-family: "Work Sans";
     font-size: 12px;
     line-height: 14px;
     color: #D5D6D7;      
@@ -245,7 +237,6 @@ margin-left: 2rem;
     width: 2rem;
     height: 2rem;
    margin-bottom: 0.7rem;
-   
 }
 
 .girls{
@@ -260,17 +251,16 @@ margin-left: 2rem;
    margin-bottom: 0.7rem;
    margin-top: 0.5rem;
 }
-
 .up{
 margin-left: 1rem;
-font-family: Work Sans;
+font-family: "Work Sans";
 font-size: 15px;
 line-height: 18px;
 color: #6C7172;  
 }
 .upp{
     margin-left: 1rem;
-    font-family: Work Sans;
+    font-family: "Work Sans";
     font-size: 15px;
     line-height: 18px;
     color: #6C7172;   
@@ -278,7 +268,6 @@ color: #6C7172;
 #line{
     width: 100%;
     border: 1px solid #EAEBEB;
-
   }
   .term{
       padding-left: 1rem;
@@ -290,7 +279,7 @@ color: #6C7172;
   }
   .kyle{
     margin-left: 1rem;
-    font-family: Work Sans;
+    font-family: "Work Sans";
     font-size: 11.8237px;
     line-height: 14px;
     color: #6C7172;
@@ -308,7 +297,7 @@ color: #6C7172;
 
   .tyler{
      margin-left: 1rem;
-    font-family: Work Sans;
+    font-family: "Work Sans";
     font-size: 11.8237px;
     line-height: 14px;
     color: #6C7172;
@@ -325,19 +314,20 @@ color: #6C7172;
       }
     .robot{
         margin-left: 1rem;
-       font-family: Work Sans;
+       font-family:"Work Sans";
        font-size: 11.8237px;
        line-height: 14px;
        color: #6C7172;
        padding-top: 1rem;
-         }
+     }
+
      .chat-image1{
-     padding-top: 1rem;
-    margin-left: 4rem;
+        padding-top: 1rem;
+        margin-left: 4rem;
           }
 
     .view{
-        font-family: Work Sans;
+        font-family: "Work Sans";
         font-size: 15px;
         line-height: 18px;
         color: #6C7172;
@@ -352,11 +342,10 @@ color: #6C7172;
 
     .teaa{
         padding-left: 2rem;
-        font-family: Work Sans;
+        font-family: "Work Sans";
         font-size: 20px;
         line-height: 23px;
         color: #000000;
-    
     }
 .section5{
 width: 100%;
@@ -389,7 +378,6 @@ margin-left: 2rem;
 .texts{
     display: flex;
     margin-left:1rem;
-
 }
 .john{
     display: flex;
@@ -405,8 +393,8 @@ margin-left: 2rem;
 }
 .text{
     margin-top: 2rem;
-    margin-left: 5rem;
-    font-family: Work Sans;
+    margin-left: 4rem;
+    font-family:"Work Sans";
     font-size: 10px;
     line-height: 12px;
     color: #6C7172;
@@ -414,7 +402,7 @@ margin-left: 2rem;
 .math{
     margin-top:1.5rem;
     margin-left: 1rem;
-    font-family: Work Sans;
+    font-family:"Work Sans";
     font-size: 15px;
     line-height: 18px;
     color: #7579E7;
@@ -423,25 +411,23 @@ margin-left: 2rem;
 }
 .jo{
     margin-left: 1rem;
-    font-family: Work Sans;
+    font-family: "Work Sans";
     font-size: 15px;
     line-height: 18px;
     color: #7579E7;
     margin-bottom:1.5rem;
 }
 .labs{
-    margin-left: 2rem;
-    font-family: Work Sans;
+    /* margin-left: 3rem; */
+    font-family:"Work Sans";
     font-size: 10px;
     line-height: 12px;
     color: #6C7172;
-    margin-left:7rem;
-
-
+    margin-left:6.3rem;
 }
 .sal{
     margin-left: 1rem;
-    font-family: Work Sans;
+    font-family: "Work Sans";
     font-size: 15px;
     line-height: 18px;
     color: #7579E7;
@@ -449,16 +435,16 @@ margin-left: 2rem;
 
 }
 .wap{
-    margin-left: 2rem;
-    font-family: Work Sans;
+    /* margin-left: 2rem; */
+    font-family:"Work Sans";
     font-size: 10px;
     line-height: 12px;
     color: #6C7172;
-    margin-left: 5.3rem;
+    margin-left: 4.3rem;
 }
 .shive{
     margin-left: 1rem;
-    font-family: Work Sans;
+    font-family:"Work Sans";
     font-size: 15px;
     line-height: 18px;
     color: #7579E7;
@@ -466,20 +452,18 @@ margin-left: 2rem;
 
 }
 .spd{
-    margin-left: 2rem;
-    font-family: Work Sans;
+    /* margin-left: 2rem; */
+    font-family: "Work Sans";
     font-size: 10px;
     line-height: 12px;
     color: #6C7172;
-    margin-left: 4.3rem;
+    margin-left: 3.3rem;
 }
 
 .section5b{
     width: 60%;
     margin-top: 0.8rem;
     height: auto;
-   
-
 }
 .sub-section5{
     background: #FFFFFF;
@@ -488,7 +472,7 @@ margin-left: 2rem;
     margin-left: 3rem;
     padding-top: 1rem;
     margin-right: 1rem;
-    width: 43rem;
+    width: 44rem;
     
 }
 .first-sec{
@@ -500,14 +484,14 @@ margin-bottom: 0.5rem;
 
 .month{
     margin-right: 1rem;
-    font-family: Work Sans;
+    font-family: "Work Sans";
     font-size: 12px;
     line-height: 14px;
     color: #D5D6D7;
     padding-bottom: -4rem;
 }
 .oct{
-    font-family: Work Sans;
+    font-family: "Work Sans";
 font-size: 17px;
 line-height: 20px;
 color: #6C7172;
@@ -518,11 +502,11 @@ color: #6C7172;
     margin-left: 22.5rem;
 }
 .pro{
-font-family: Work Sans;
+font-family: "Work Sans";
 font-size: 20px;
 line-height: 23px;
 color: #000000;
-margin-right:2.5rem;
+margin-right:3rem;
 
 }
 .path{
@@ -540,7 +524,7 @@ margin-right:2.5rem;
 }
 .analytic{
     /* padding-top:0.5rem; */
-    font-family: Work Sans;
+    font-family:"Work Sans";
     font-size: 12px;
     line-height: 20px;
     color: #7579E7;
@@ -577,7 +561,7 @@ margin-bottom: 2rem;
     width: 1.2rem;
 }
 .project{
-font-family: Work Sans;
+font-family: "Work Sans";
 font-size: 10px;
 line-height: 20px;
 color: #7579E7;
